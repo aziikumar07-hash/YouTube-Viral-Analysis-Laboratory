@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Viral Analysis Laboratory",
+  "description": "An interactive studio and AI-powered simulation suite to craft and optimize viral YouTube concepts, 4-beat hooks, pacing profiles, and thumbnails based on the 2026 satisfaction algorithm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
